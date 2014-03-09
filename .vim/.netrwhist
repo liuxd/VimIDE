@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/liuxd/Downloads/7276497'
+let g:netrw_dirhist_2='/Users/liuxd/Documents/git.corp.anjuke.com/MonitorCenter/dev/git-hooks'
+let g:netrw_dirhist_3='/Users/liuxd/Documents/git.corp.anjuke.com/MonitorCenter/vendor'
+let g:netrw_dirhist_4='/Users/liuxd/Documents/git.corp.anjuke.com/monitor/vendor/shark/simple_html_dom'
+let g:netrw_dirhist_5='/Users/liuxd/Documents/git.corp.anjuke.com/hack-me'
+let g:netrw_dirhist_6='/Users/liuxd/Documents/git.corp.anjuke.com/monitor/src/web/public/dist/img'
