@@ -9,6 +9,7 @@ map <F4> :cw<CR>
 map <F5> :q<CR>
 map <F6> :tabe<CR>
 map <F8> :noh<CR>
+map <F9> Go#end of this file
 
 "设定文件编码
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
