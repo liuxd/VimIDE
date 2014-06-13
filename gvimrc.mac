@@ -8,7 +8,7 @@ map <F4> :cw<CR>
 map <F5> :q<CR>
 map <F6> :tabe<CR>
 map <F8> :noh<CR>
-map <F9> Go#end of this file
+map <F9> Go# end of this file
 
 "设定文件编码
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
@@ -73,6 +73,9 @@ set hlsearch
 
 "设置查找区分大小写
 set noic
+
+"设置文件格式
+set fileformats=unix
 
 "NERDTree 插件
 let NERDTreeWinPos = "left"
