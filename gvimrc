@@ -76,6 +76,9 @@ set hlsearch
 "设置查找区分大小写
 set noic
 
+"设置文件格式
+set fileformats=unix
+
 "NERDTree 插件
 let NERDTreeWinPos = "left"
 let NERDTreeWinSize = 25 "size of the NERD tree
