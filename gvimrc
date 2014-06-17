@@ -9,7 +9,7 @@ map <F4> :cw<CR>
 map <F5> :q<CR>
 map <F6> :tabe<CR>
 map <F8> :%s= *$==<CR>:set nolist<CR>:noh<CR>
-map <F9> Go<CR># end of this file<ESC>
+map <F9> Go<CR># end of this file<ESC>:w<CR>
 
 "设定文件编码
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
