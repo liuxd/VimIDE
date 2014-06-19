@@ -11,6 +11,12 @@ map <F6> :tabe<CR>
 map <F8> :%s= *$==<CR>:set nolist<CR>:noh<CR>
 map <F9> Go<CR># end of this file<ESC>:w<CR>
 
+abbr fn function
+abbr pb public
+abbr pt protected
+abbr pr private
+abbr fc foreach
+
 "设定文件编码
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
 
