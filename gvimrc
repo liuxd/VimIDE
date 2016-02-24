@@ -31,7 +31,8 @@ syntax on
 
 "配色风格
 "colorscheme github
-colorscheme desert
+"colorscheme desert
+color dracula
 
 "设定行距 GUI 界面中生效
 set linespace=2
